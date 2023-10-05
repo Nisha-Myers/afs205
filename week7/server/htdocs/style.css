@@ -1,0 +1,80 @@
+html {
+    text-align: center;
+    background-color: #3f3f3f;
+    padding: 30px;
+}
+
+.title-card {
+    background-color: rgb(208, 247, 248);
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+    background-color: #3f3f3f;
+    color: rgb(8, 126, 180);
+}
+
+.cloud {
+    border-radius: 5px;
+}
+
+a {
+    padding: 10px;
+    margin: 20px;
+    background-color: #3f3f3f;
+    text-decoration: none;
+    color: rgb(218, 153, 243);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+}
+
+a:hover {
+    opacity: 1;
+    border-radius: 5px;
+    background-color: rgb(90, 219, 252);
+}
+
+.landing-nav {
+    background-color: white;
+    text-decoration: none;
+}
+
+.about-us-link {
+    margin: 25px;
+    padding: 10px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 3px;
+}
+
+.about-us-main {
+    background-color: rgb(204, 204, 204);
+    border-radius: 6px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.about-us-body {
+    margin: 50px;
+}
+
+.tornado-pic {
+    margin: 20px;
+}
+
+.profile-main {
+    align-items: center;
+    text-align:center ;
+}
+
+.profile-head {
+    background-color: rgb(204, 204, 204);
+}
+
+.error {
+    background-color: red;
+}   
